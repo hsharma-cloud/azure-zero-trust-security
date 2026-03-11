@@ -1,4 +1,4 @@
-# Azure Zero Trust Security Labs
+# Azure Zero Trust Security Architecture
 
 ## Overview
 This repository demonstrates the implementation of Zero Trust security architecture in Microsoft Azure. It includes hands-on labs covering virtual network segmentation, secure administrative access using Azure Bastion, private endpoint connectivity, network security enforcement with NSGs, and security posture evaluation with Microsoft Defender for Cloud. The environment is designed to reduce attack surface, enforce least-privilege access, and validate secure cloud configuration.
